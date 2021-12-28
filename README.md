@@ -4,7 +4,7 @@
 
 Authors:
 <ul>
-<li>EGE OGUZMAN (X20257961)</li>
+<li>MEHMET EGE OGUZMAN (X20257961)</li>
 <li>KOLIN KAYIKCIOGLU (x20236620)</li>
 <li>MERVE BASKAN (x20238096)</li>
 </ul>
