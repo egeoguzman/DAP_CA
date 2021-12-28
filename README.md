@@ -14,7 +14,7 @@
 <strong>(API)Central Bank of Republic of Turkey:</strong> [https://evds2.tcmb.gov.tr/index.php](https://evds2.tcmb.gov.tr/index.php)
 
 #### File Contents:
-##### 1.1 Scripts:
+##### 1.1 Notebooks:
 <ul>
 <li><strong>(ege)dollar.ipynb:</strong> Pulling USD data by using API and insert to the MongoDB</li>
 <li><strong>(ege)kkhartut.ipynb:</strong> Pulling Credit Card Expenditures data by using API, insert to the MongoDB and EDA</li>
