@@ -2,7 +2,7 @@
 
 ### USD-TL Exchange Rate Forecasting Using TimeSeries Analysis and Machine Learning Algorithms
 
-#### Authors:
+#### Authors Group Q:
 <ul>
 <li>MEHMET EGE OGUZMAN (X20257961)</li>
 <li>KOLIN KAYIKCIOGLU (x20236620)</li>
